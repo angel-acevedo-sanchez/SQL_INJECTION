@@ -1,3 +1,8 @@
+/*
+	Author: Ángel Acevedo Sánchez
+	23/01/2019
+	All rights reserved
+*/
 <?php
 	
 	//Create an user called user1 (or whatever)
