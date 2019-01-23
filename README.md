@@ -9,4 +9,6 @@ The db structure is described on the following images.
 
 ![alt text](users.png)
 
+![alt text](pc.png)
+
 
