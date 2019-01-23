@@ -1,0 +1,7 @@
+INSERT INTO USERS VALUES(1,'Admin', 'P?a?w@d', 'root');
+INSERT INTO USERS VALUES(2, 'user1', 'pass1word', 'usuario1');
+INSERT INTO USERS VALUES(3, 'user2', 'pass2word', 'usuario2');
+
+INSERT INTO PC VALUES(1,'BC1212', 'PC1', 300);
+INSERT INTO PC VALUES(2, 'BC1222', 'PC2', 350);
+INSERT INTO PC VALUES(3, 'BC9122', 'PC3', 540);
