@@ -5,6 +5,6 @@ The DB for this project is PostgreSQL. Other DB can be used, just change the con
 
 # ScreenShots
 The db structure is described on the following images.
-[ScreenShot](users.png)
+[users.png](users.png)
 
 
