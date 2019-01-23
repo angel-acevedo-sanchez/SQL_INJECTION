@@ -1,3 +1,10 @@
+/*
+	
+	Author: Ángel Acevedo Sánchez
+	23/01/2019
+	All rights reserved
+*/
+
 <?php
 
 error_reporting(E_ALL);
